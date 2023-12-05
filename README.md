@@ -1,2 +1,2 @@
 ## Derin Öğrenme Modelleri
-#### ᅳ mnist_ann: Mnist el yazısı tanıma modeli
+#### ᅳ mnist_ann: Mnist veriseti el yazısı tanıma modeli
